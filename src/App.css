@@ -1,0 +1,9 @@
+.pc iframe{
+    
+    width: 169px;
+    height: 354px;
+    border: none;
+    border-top-right-radius: 27px;
+    border-radius: 27px;
+    overflow: hidden;
+}
