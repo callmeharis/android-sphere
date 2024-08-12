@@ -14,6 +14,7 @@ const Task = () => {
      >
         <OrbitControls 
         enableRotate={false}
+        enableZoom={false}
         />
 <ambientLight intensity={1.5}/>
 
